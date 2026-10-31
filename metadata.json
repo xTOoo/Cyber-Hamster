@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Hamster: Telegram Game Mini App",
+  "description": "Повноцінна інтерактивна Telegram Mini App гра з клікером, бос-рейдами, пасивним майнінгом, бустерами, лігами та завданнями.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
