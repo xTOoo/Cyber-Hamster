@@ -5,6 +5,8 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Вкажи назву свого репозиторію на GitHub замість 'my-repo-name'
+    base: '/my-repo-name/', 
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
